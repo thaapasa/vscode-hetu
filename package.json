@@ -10,14 +10,14 @@
     "Other"
   ],
   "activationEvents": [
-    "onCommand:hetu-gen.helloWorld"
+    "onCommand:hetu-gen.generateHetu"
   ],
   "main": "./dist/extension.js",
   "contributes": {
     "commands": [
       {
-        "command": "hetu-gen.helloWorld",
-        "title": "Hello World"
+        "command": "hetu-gen.generateHetu",
+        "title": "Generate random Finnish HETU"
       }
     ]
   },
