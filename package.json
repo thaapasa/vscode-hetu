@@ -3,6 +3,10 @@
   "displayName": "hetu-gen",
   "description": "Generate Finnish SSNs",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thaapasa/vscode-hetu.git"
+  },
   "engines": {
     "vscode": "^1.71.0"
   },
